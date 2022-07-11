@@ -1,0 +1,13 @@
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/DeletarCliente.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/interactor/AtualizarDadosClienteDefault.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/domain/repository/ClienteRepository.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/domain/entity/ClienteDefault.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/domain/factory/ClienteFactory.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/CadastrarCliente.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/infra/SoluevoApplication.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/AtualizarSaldoCliente.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/domain/Cliente.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/AtualizarDadosCliente.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/interactor/CadastrarClienteDefault.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/interactor/AtualizarSaldoClienteDefault.java
+/home/selvs/Projetos/challenge-java-soluevo/src/main/java/com/swrj/soluevo/core/usecase/interactor/DeletarClienteDefault.java

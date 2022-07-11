@@ -1,0 +1,14 @@
+com/swrj/soluevo/core/usecase/AtualizarSaldoCliente.class
+com/swrj/soluevo/core/usecase/CadastrarCliente.class
+com/swrj/soluevo/core/usecase/interactor/CadastrarClienteDefault.class
+com/swrj/soluevo/core/domain/repository/ClienteRepository.class
+com/swrj/soluevo/core/domain/entity/ClienteDefault.class
+com/swrj/soluevo/core/usecase/interactor/AtualizarDadosClienteDefault.class
+com/swrj/soluevo/core/usecase/interactor/AtualizarSaldoClienteDefault.class
+com/swrj/soluevo/core/domain/factory/ClienteFactory.class
+com/swrj/soluevo/core/usecase/interactor/DeletarClienteDefault.class
+com/swrj/soluevo/core/usecase/DeletarCliente.class
+com/swrj/soluevo/core/domain/Cliente.class
+com/swrj/soluevo/core/usecase/AtualizarDadosCliente.class
+com/swrj/soluevo/infra/SoluevoApplication.class
+com/swrj/soluevo/core/domain/Cliente$Situacao.class

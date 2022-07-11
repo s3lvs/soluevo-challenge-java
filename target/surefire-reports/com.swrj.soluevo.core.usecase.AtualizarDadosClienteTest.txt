@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.swrj.soluevo.core.usecase.AtualizarDadosClienteTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.075 s <<< FAILURE! - in com.swrj.soluevo.core.usecase.AtualizarDadosClienteTest
+alterarNomeEDataNascimento  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.swrj.soluevo.core.usecase.AtualizarDadosClienteTest.alterarNomeEDataNascimento(AtualizarDadosClienteTest.java:42)
+

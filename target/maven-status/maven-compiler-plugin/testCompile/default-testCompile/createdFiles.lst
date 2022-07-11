@@ -1,0 +1,8 @@
+com/swrj/soluevo/core/ClientRepositoyMock.class
+com/swrj/soluevo/core/usecase/CadastrarClienteTest.class
+com/swrj/soluevo/core/usecase/AtualizarDadosClienteTest.class
+com/swrj/soluevo/core/usecase/DeletarClienteTest.class
+com/swrj/soluevo/core/domain/ClienteTest.class
+com/swrj/soluevo/core/ContantesUtil.class
+com/swrj/soluevo/core/usecase/AtualizarSaldoClienteTest.class
+com/swrj/soluevo/infra/SoluevoApplicationTests.class

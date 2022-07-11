@@ -1,0 +1,8 @@
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/usecase/AtualizarDadosClienteTest.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/usecase/AtualizarSaldoClienteTest.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/usecase/CadastrarClienteTest.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/infra/SoluevoApplicationTests.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/usecase/DeletarClienteTest.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/ContantesUtil.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/ClientRepositoyMock.java
+/home/selvs/Projetos/challenge-java-soluevo/src/test/java/com/swrj/soluevo/core/domain/ClienteTest.java
